@@ -48,10 +48,6 @@ public:
     double e[3];
 };
 
-// Type aliases for vec3
-using point3 = vec3;   // 3D point
-using color = vec3;    // RGB color
-
 
 // vec3 Utility Functions
 

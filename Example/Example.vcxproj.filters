@@ -33,7 +33,13 @@
     <ClInclude Include="hittable_list.h">
       <Filter>头文件</Filter>
     </ClInclude>
-    <ClInclude Include="rtweekend.h">
+    <ClInclude Include="camera.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="utils.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="point3.h">
       <Filter>头文件</Filter>
     </ClInclude>
   </ItemGroup>
